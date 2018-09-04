@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author contentdave
+ *
+ */
+module PatternDemos {
+}
